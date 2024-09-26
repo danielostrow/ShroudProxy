@@ -1,3 +1,9 @@
+// 
+// ShroudProxy
+// 	Daniel Ostrow
+//		2024
+//
+
 package server
 
 import (
